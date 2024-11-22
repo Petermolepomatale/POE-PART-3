@@ -1,0 +1,1 @@
+fix: Added error messages to the claim form for invalid inputs, including negative values for Hours Worked and Hourly Rate.
